@@ -62479,6 +62479,7 @@ public import StacksFrontier.Topology.Sober.CounterexampleNeither
 public import StacksFrontier.Topology.Sober.CounterexampleSubspace
 public import StacksFrontier.Topology.Sober.Defs
 public import StacksFrontier.Topology.Sober.Generization
+public import StacksFrontier.Topology.Sober.GenericPoint
 public import StacksFrontier.Topology.Sober.Irreducible
 public import StacksFrontier.Topology.Sober.IrreducibleComponents
 public import StacksFrontier.Topology.Sober.Local
